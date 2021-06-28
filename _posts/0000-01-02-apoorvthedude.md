@@ -1,6 +1,4 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+<html>
+I am editing the code again.
+So that my code will look beautiful
+</html>
